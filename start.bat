@@ -1,4 +1,4 @@
 @echo off
-TITLE Fallen Robot
-:: Enables virtual env mode and then starts Fallen
-env\scripts\activate.bat && py -m FallenRobot
+TITLE Royal Robot
+:: Enables virtual env mode and then starts Royal
+env\scripts\activate.bat && py -m RoyalRobot
